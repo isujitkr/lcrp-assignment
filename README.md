@@ -1,0 +1,46 @@
+# Logistics Platform 🚚
+
+A **logistics management platform** built with **Node.js, Express, and MongoDB**.  
+It enables efficient **load allocation, cost calculation, and fleet management** for transport companies.
+
+## 🚀 Getting Started
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Node.js and npm installed on your machine.
+- MongoDB installed and running locally or accessible via a remote server.
+
+## Installation
+
+1. Clone the repository:
+  ```bash
+  git clone https://github.com/isujitkr/lcrp-assignment
+
+
+2. Navigate to the project directory:
+   ```bash
+   cd lcrp-assignment
+
+3. Set up environment variables in the .env file for MongoDB connection string.
+   ```bash
+   PORT=5000
+   MONGODB_URI=
+
+4. Install dependencies for frontend and backend:
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
+
+5. Run both the client and server:
+   ```bash
+   # From the backend directory
+   npm run dev
+
+   # From the frontend directory
+   npm run dev
+
+6. Access the application through the provided URL (typically http://localhost:5173)
