@@ -46,4 +46,8 @@ Before you begin, ensure you have met the following requirements:
    # From the frontend directory
    npm run dev
 
-6. Access the application through the provided URL (typically http://localhost:5173)
+6. Upload file in give formate
+
+    <img width="286" height="71" alt="image" src="https://github.com/user-attachments/assets/6a33a256-1e02-4b45-a17b-ac5e1f111018" />
+
+7. Access the application through the provided URL (typically http://localhost:5173)
