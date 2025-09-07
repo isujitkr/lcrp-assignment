@@ -24,11 +24,11 @@ Before you begin, ensure you have met the following requirements:
 
 3. Set up environment variables in the .env file for MongoDB connection string.
    ```bash
-   # From the backend directory
+   # In backend directory
    PORT=5000
    MONGODB_URI=
 
-   # From the frontend directory
+   # In frontend directory
    VITE_API_URL=http://localhost:5000/api
 
 4. Install dependencies for frontend and backend:
